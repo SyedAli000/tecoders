@@ -1,0 +1,9 @@
+.mainsticker {
+  padding: 50px 0px;
+}
+.centerstciker {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

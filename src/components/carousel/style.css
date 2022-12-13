@@ -1,0 +1,17 @@
+.imgdiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textphoto {
+  color: #6f7581;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 33px;
+}
+.teacher {
+  color: #403f52;
+  font-size: 1.6rem;
+  font-weight: 700;
+}

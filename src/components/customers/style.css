@@ -1,0 +1,47 @@
+.happymain {
+  padding: 70px 0px;
+}
+.imglogo {
+  border-radius: 10rem;
+  margin-bottom: 5rem;
+}
+.centerhappy {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 15rem;
+}
+.texthappy {
+  font-size: 1.8rem;
+  color: #6f7581;
+  font-weight: 700;
+}
+.texthappy1 {
+  font-size: 3.7rem;
+  color: #403f52;
+  font-weight: 700;
+}
+.texthappy2 {
+  font-size: 1.5rem;
+  color: #6f7581;
+  font-weight: 400;
+  line-height: 33px;
+}
+.bgcolor {
+  background-color: #f8f8ff;
+  padding: 60px 0px;
+}
+@media (max-width: 1024px) {
+  .texthappy1 {
+    font-size: 3rem;
+    color: #403f52;
+    font-weight: 700;
+  }
+  .texthappy2 {
+    font-size: 1.3rem;
+    color: #6f7581;
+    font-weight: 400;
+    line-height: 33px;
+  }
+}

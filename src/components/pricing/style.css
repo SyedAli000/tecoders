@@ -1,0 +1,112 @@
+.mainpricing {
+  padding: 60px 0px;
+  background-color: rgb(248, 248, 255);
+}
+.explorebutton22 {
+  background-color: #eaeafd !important;
+  color: #4033ff !important;
+  padding: 1.2rem !important;
+  font-weight: 700 !important;
+  font-size: 1.4rem !important;
+  border-radius: 3rem !important;
+  margin-top: 2rem !important;
+  text-transform: lowercase !important;
+  width: 15rem !important;
+  text-align: center !important;
+}
+.explorebutton2244 {
+  background-color: #4033ff !important;
+  color: #eaeafd !important;
+  padding: 1.2rem !important;
+  font-weight: 700 !important;
+  font-size: 1.4rem !important;
+  border-radius: 3rem !important;
+  margin-top: 2rem !important;
+  text-transform: lowercase !important;
+  width: 15rem !important;
+  text-align: center !important;
+}
+.textpricing {
+  text-align: center;
+  color: #6f7581;
+  font-weight: 700;
+  font-size: 1.8rem;
+}
+.textpricing1 {
+  text-align: center;
+  color: #403f52;
+  font-weight: 700;
+  font-size: 3.7rem;
+  margin-bottom: 8rem;
+}
+.centerpricing {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 10rem;
+  margin-bottom: 2rem;
+}
+.centerpricing22 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #ffffff;
+  height: 58rem;
+  border-radius: 0.5rem;
+  box-shadow: 5px 10px 18px #bcbbbb;
+  margin-bottom: 2rem;
+}
+.basictext {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #6f7581;
+  text-align: center;
+}
+.basictext1 {
+  font-size: 7.2rem;
+  font-weight: 700;
+  color: #403f52;
+  text-align: center;
+}
+.basictext2 {
+  color: #6f7581;
+  font-size: 1.5rem;
+  font-weight: 400;
+  text-align: center;
+  line-height: 33px;
+}
+@media (max-width: 1024px) {
+  .basictext {
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: #6f7581;
+    text-align: center;
+  }
+  .basictext1 {
+    font-size: 5.2rem;
+    font-weight: 700;
+    color: #403f52;
+    text-align: center;
+  }
+  .basictext2 {
+    color: #6f7581;
+    font-size: 1.1rem;
+    font-weight: 400;
+    text-align: center;
+    line-height: 33px;
+  }
+  .centerpricing22 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #ffffff;
+    height: 58rem;
+    border-radius: 0.5rem;
+    box-shadow: 5px 10px 18px #bcbbbb;
+    margin-bottom: 2rem;
+    padding: 1rem;
+  }
+}
