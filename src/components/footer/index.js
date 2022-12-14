@@ -16,7 +16,8 @@ function Footer() {
               <div className="centerfooter">
                 <div>
                   <img
-                    src="https://jevelin.shufflehound.com/startup-clean/wp-content/uploads/sites/34/2019/03/Jevelin_logo_dark.png"
+                    className="footerimg"
+                    src="https://trisage-solution.vercel.app/static/media/tri.e8b2dd4d.png"
                     alt=""
                   />
                   <p className="textfollow">

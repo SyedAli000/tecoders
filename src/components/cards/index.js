@@ -21,148 +21,238 @@ const responsive = {
 };
 const items = [
   <div className="centercard" onDragStart={handleDragStart}>
-    <Card
-      hoverable
-      //   style={{
-      //     width: 300,
-      //   }}
-      className="cardwidth"
-      cover={
-        <img
-          alt="example"
-          src="https://jevelin.shufflehound.com/startup-clean/wp-content/uploads/sites/34/2019/03/101_0001_alexandru-acea-bbokzTQjB9o-unsplash2-1024x777.jpg"
-        />
-      }
-      actions={[<p>Read more</p>, <RightOutlined />]}
-    >
-      <Meta
-        title="All dates set for a year"
-        description="A wonderful serenity has taken possession of my entire soul, 
+    <a href="https://modest-tereshkova-3f6498.netlify.app/" target="_blank">
+      <Card
+        hoverable
+        //   style={{
+        //     width: 300,
+        //   }}
+        className="cardwidth"
+        cover={
+          <img
+            alt="example"
+            src="https://trisage-solution.vercel.app/images/coin.png"
+          />
+        }
+        actions={[<p>Read more</p>, <RightOutlined />]}
+      >
+        <Meta
+          title="Clock 360 (NFT Marketing)"
+          description="A wonderful serenity has taken possession of my entire soul, 
         like these sweet mornings of spring which I enjoy with my whole heart. 
         I am alone, and feel the charm of existence in this spot, which was created 
         for the bliss of souls like mine....  "
-      />
-    </Card>
+        />
+      </Card>
+    </a>
   </div>,
   <div className="centercard " onDragStart={handleDragStart}>
-    <Card
-      hoverable
-      //   style={{
-      //     width: 300,
-      //   }}
-      className="cardwidth"
-      cover={
-        <img
-          alt="example"
-          src="https://jevelin.shufflehound.com/startup-clean/wp-content/uploads/sites/34/2019/03/101_0001_alexandru-acea-bbokzTQjB9o-unsplash5-1024x777.jpg"
-        />
-      }
-      actions={[<p>Read more</p>, <RightOutlined />]}
-    >
-      <Meta
-        title="Newest technology"
-        description="A wonderful serenity has taken possession of my entire soul, 
+    <a href="http://www.kitabank.com/" target="_blank">
+      <Card
+        hoverable
+        //   style={{
+        //     width: 300,
+        //   }}
+        className="cardwidth"
+        cover={
+          <img
+            alt="example"
+            src="https://trisage-solution.vercel.app/images/book.png"
+          />
+        }
+        actions={[<p>Read more</p>, <RightOutlined />]}
+      >
+        <Meta
+          title="KitaBank"
+          description="A wonderful serenity has taken possession of my entire soul, 
         like these sweet mornings of spring which I enjoy with my whole heart. 
         I am alone, and feel the charm of existence in this spot, which was created 
         for the bliss of souls like mine....  "
-      />
-    </Card>
+        />
+      </Card>
+    </a>
   </div>,
   <div className="centercard " onDragStart={handleDragStart}>
-    <Card
-      hoverable
-      //   style={{
-      //     width: 300,
-      //   }}
-      className="cardwidth"
-      cover={
-        <img
-          alt="example"
-          src="https://jevelin.shufflehound.com/startup-clean/wp-content/uploads/sites/34/2019/03/101_0001_alexandru-acea-bbokzTQjB9o-unsplas4h-1024x777.jpg"
-        />
-      }
-      actions={[<p>Read more</p>, <RightOutlined />]}
-    >
-      <Meta
-        title="New age technology"
-        description="A wonderful serenity has taken possession of my entire soul, 
+    <a href="https://newdigital.vercel.app/" target="_blank">
+      <Card
+        hoverable
+        //   style={{
+        //     width: 300,
+        //   }}
+        className="cardwidth"
+        cover={
+          <img
+            alt="example"
+            src="https://trisage-solution.vercel.app/images/crypto.png"
+          />
+        }
+        actions={[<p>Read more</p>, <RightOutlined />]}
+      >
+        <Meta
+          title="Digital Block Exchange"
+          description="A wonderful serenity has taken possession of my entire soul, 
         like these sweet mornings of spring which I enjoy with my whole heart. 
         I am alone, and feel the charm of existence in this spot, which was created 
         for the bliss of souls like mine....  "
-      />
-    </Card>
+        />
+      </Card>
+    </a>
   </div>,
   <div className="centercard " onDragStart={handleDragStart}>
-    <Card
-      hoverable
-      //   style={{
-      //     width: 300,
-      //   }}
-      className="cardwidth"
-      cover={
-        <img
-          alt="example"
-          src="https://jevelin.shufflehound.com/startup-clean/wp-content/uploads/sites/34/2019/03/101_0001_alexandru-acea-bbokzTQjB9o-unsplas3h-1024x777.jpg"
-        />
-      }
-      actions={[<p>Read more</p>, <RightOutlined />]}
-    >
-      <Meta
-        title="Colors this year"
-        description="A wonderful serenity has taken possession of my entire soul, 
+    <a href="https://tender-lewin-90de3c.netlify.app/" target="_blank">
+      <Card
+        hoverable
+        //   style={{
+        //     width: 300,
+        //   }}
+        className="cardwidth"
+        cover={
+          <img
+            alt="example"
+            src="https://trisage-solution.vercel.app/images/cozy.png"
+          />
+        }
+        actions={[<p>Read more</p>, <RightOutlined />]}
+      >
+        <Meta
+          title="NFT Marketing"
+          description="A wonderful serenity has taken possession of my entire soul, 
         like these sweet mornings of spring which I enjoy with my whole heart. 
         I am alone, and feel the charm of existence in this spot, which was created 
         for the bliss of souls like mine....  "
-      />
-    </Card>
+        />
+      </Card>
+    </a>
   </div>,
   <div className="centercard " onDragStart={handleDragStart}>
-    <Card
-      hoverable
-      //   style={{
-      //     width: 300,
-      //   }}
-      className="cardwidth"
-      cover={
-        <img
-          alt="example"
-          src="https://jevelin.shufflehound.com/startup-clean/wp-content/uploads/sites/34/2019/03/101_0001_alexandru-acea-bbokzTQjB9o-unsplash8-1024x777.jpg"
-        />
-      }
-      actions={[<p>Read more</p>, <RightOutlined />]}
-    >
-      <Meta
-        title="Design Stories"
-        description="A wonderful serenity has taken possession of my entire soul, 
+    <a href="https://suspicious-goldwasser-8b7439.netlify.app/" target="_blank">
+      <Card
+        hoverable
+        //   style={{
+        //     width: 300,
+        //   }}
+        className="cardwidth"
+        cover={
+          <img
+            alt="example"
+            src="https://trisage-solution.vercel.app/images/draz.png"
+          />
+        }
+        actions={[<p>Read more</p>, <RightOutlined />]}
+      >
+        <Meta
+          title="Trisage E-Commerce"
+          description="A wonderful serenity has taken possession of my entire soul, 
         like these sweet mornings of spring which I enjoy with my whole heart. 
         I am alone, and feel the charm of existence in this spot, which was created 
         for the bliss of souls like mine....  "
-      />
-    </Card>
+        />
+      </Card>
+    </a>
   </div>,
   <div className="centercard " onDragStart={handleDragStart}>
-    <Card
-      hoverable
-      //   style={{
-      //     width: 300,
-      //   }}
-      className="cardwidth"
-      cover={
-        <img
-          alt="example"
-          src="https://jevelin.shufflehound.com/startup-clean/wp-content/uploads/sites/34/2019/03/101_0001_alexandru-acea-bbokzTQjB9o-unsplash1-1024x777.jpg"
-        />
-      }
-      actions={[<p>Read more</p>, <RightOutlined />]}
-    >
-      <Meta
-        title="Looking for colors"
-        description="A wonderful serenity has taken possession of my entire soul, 
+    <a href="https://sikayetbox-fe-v2.vercel.app" target="_blank">
+      <Card
+        hoverable
+        //   style={{
+        //     width: 300,
+        //   }}
+        className="cardwidth"
+        cover={
+          <img
+            alt="example"
+            src="https://trisage-solution.vercel.app/images/socail.png"
+          />
+        }
+        actions={[<p>Read more</p>, <RightOutlined />]}
+      >
+        <Meta
+          title="SikayetBox"
+          description="A wonderful serenity has taken possession of my entire soul, 
         like these sweet mornings of spring which I enjoy with my whole heart. 
         I am alone, and feel the charm of existence in this spot, which was created 
         for the bliss of souls like mine....  "
-      />
-    </Card>
+        />
+      </Card>
+    </a>
+  </div>,
+  <div className="centercard " onDragStart={handleDragStart}>
+    <a href="https://the-wall-neon.vercel.app/home" target="_blank">
+      <Card
+        hoverable
+        //   style={{
+        //     width: 300,
+        //   }}
+        className="cardwidth"
+        cover={
+          <img
+            alt="example"
+            src="https://trisage-solution.vercel.app/images/cylce.png"
+          />
+        }
+        actions={[<p>Read more</p>, <RightOutlined />]}
+      >
+        <Meta
+          title="SOCIAL DONATING APP"
+          description="A wonderful serenity has taken possession of my entire soul, 
+        like these sweet mornings of spring which I enjoy with my whole heart. 
+        I am alone, and feel the charm of existence in this spot, which was created 
+        for the bliss of souls like mine....  "
+        />
+      </Card>
+    </a>
+  </div>,
+  <div className="centercard " onDragStart={handleDragStart}>
+    <a href="https://alt-deck-new-ui-two.vercel.app/" target="_blank">
+      <Card
+        hoverable
+        //   style={{
+        //     width: 300,
+        //   }}
+        className="cardwidth"
+        cover={
+          <img
+            alt="example"
+            src="https://trisage-solution.vercel.app/images/market.png"
+          />
+        }
+        actions={[<p>Read more</p>, <RightOutlined />]}
+      >
+        <Meta
+          title="ALT DECK"
+          description="A wonderful serenity has taken possession of my entire soul, 
+        like these sweet mornings of spring which I enjoy with my whole heart. 
+        I am alone, and feel the charm of existence in this spot, which was created 
+        for the bliss of souls like mine....  "
+        />
+      </Card>
+    </a>
+  </div>,
+  <div className="centercard " onDragStart={handleDragStart}>
+    <a href="https://mars-market.vercel.app/products" target="_blank">
+      <Card
+        hoverable
+        //   style={{
+        //     width: 300,
+        //   }}
+        className="cardwidth"
+        cover={
+          <img
+            alt="example"
+            src="https://trisage-solution.vercel.app/images/store.png"
+          />
+        }
+        actions={[<p>Read more</p>, <RightOutlined />]}
+      >
+        <Meta
+          title="MARS MARKET"
+          description="A wonderful serenity has taken possession of my entire soul, 
+        like these sweet mornings of spring which I enjoy with my whole heart. 
+        I am alone, and feel the charm of existence in this spot, which was created 
+        for the bliss of souls like mine....  "
+        />
+      </Card>
+    </a>
   </div>,
 ];
 function Cards22() {
