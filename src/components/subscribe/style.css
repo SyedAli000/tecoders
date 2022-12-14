@@ -9,6 +9,19 @@
   margin-left: 0.5rem !important;
   text-transform: capitalize;
 }
+.explorebuttonsubs12 {
+  background-color: #4033ff !important;
+  color: #fff !important;
+  padding: 1.1rem !important;
+  font-weight: 700 !important;
+  font-size: 1.3rem !important;
+  border-radius: 0.5rem !important;
+  width: 15rem !important;
+  margin-left: 0.5rem !important;
+  text-transform: capitalize;
+  margin-top: 2rem !important;
+  margin-bottom: 2rem !important;
+}
 .mainsubscribe {
   display: flex;
   justify-content: center;
@@ -19,8 +32,6 @@
 .inputsubs {
   width: 50rem !important;
   padding: 1rem !important;
-  margin-top: 2rem !important;
-  margin-bottom: 4rem !important;
 }
 .subtext {
   color: #403f52;
@@ -30,16 +41,45 @@
 }
 .subtext1 {
   color: #8d8c9f;
-  font-size: 1.4rem;
-  font-weight: 400;
+  font-size: 2rem;
+  font-weight: 700;
   text-align: center;
+}
+.btnsend {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.centerform {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 10rem;
+}
+.imglogwidth {
+  width: 80%;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+@media (max-width: 1024px) {
+  .centerform {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 5rem;
+  }
+  .inputsubs {
+    width: 45rem !important;
+    padding: 1rem !important;
+  }
 }
 @media (max-width: 768px) {
   .inputsubs {
     width: 50rem !important;
     padding: 1rem !important;
-    margin-top: 2rem !important;
-    margin-bottom: 4rem !important;
   }
   .explorebuttonsubs {
     background-color: #4033ff !important;
@@ -57,8 +97,6 @@
   .inputsubs {
     width: 30rem !important;
     padding: 1rem !important;
-    margin-top: 2rem !important;
-    margin-bottom: 4rem !important;
   }
   .centerho {
     display: flex;
