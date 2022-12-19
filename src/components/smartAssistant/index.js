@@ -126,7 +126,7 @@ function SmartAssistant() {
           <div className="centersmart">
             <div>
               <img
-                className="img-fluid"
+                className="img-fluid logosmart"
                 src="https://cdn.logoworks.com/wp-content/uploads/2022/04/new-hero-image-march-1-opt.png"
                 alt=""
               />
