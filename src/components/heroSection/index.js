@@ -8,20 +8,25 @@ function HeroSection() {
   return (
     <div>
       <div className="maindivofherosection">
-        <Row>
+        <Row justify="center">
           <Col lg={12} sm={20} xs={20} md={12}>
             <div className="textcontainer">
-              <p className="slogan">Quality Over Quantity</p>
-              <p className="slogandescription">
-                Organize your ideas and future plans with our smart business
-                planner
-              </p>
-              <p className="detailsdescription">
-                We cover our clients needs with data warehouses, OLAP cubes,
-                reports and dashboards. Predicting user behavior enables
-                organization’s to maximize business.
-              </p>
-              <Button className="explorebutton">Explore the product</Button>
+              <div>
+                <p className="slogan">Quality Over Quantity</p>
+                <p className="slogandescription">
+                  Organize your ideas and
+                  <br /> future plans with our
+                  <br /> smart business planner
+                </p>
+                <p className="detailsdescription">
+                  We cover our clients needs with data warehouses,
+                  <br /> OLAP cubes, reports and dashboards. Predicting
+                  <br /> user behavior enables organization’s to maximize
+                  <br />
+                  business.
+                </p>
+                <Button className="explorebutton">Explore the product</Button>
+              </div>
             </div>
           </Col>
           <Col lg={12} sm={20} xs={20} md={12}>

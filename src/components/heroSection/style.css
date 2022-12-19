@@ -4,12 +4,17 @@
   padding-top: 5rem;
 }
 
-.textcontainer {
-  padding-left: 6rem;
+/* .textcontainer {
+  padding-left: 12rem;
   padding-top: 8rem;
   width: 50rem;
+} */
+.textcontainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
-
 .slogan {
   color: #b3ccff;
   font-size: 1.8rem;
@@ -143,13 +148,6 @@
 }
 
 @media (max-width: 440px) {
-  .textcontainer {
-    padding-left: 6rem;
-    padding-top: 0rem;
-    width: 50rem;
-    margin-top: -1rem;
-  }
-
   .mobileresponsive {
     display: flex;
     justify-content: center;
@@ -169,6 +167,16 @@
   .flowerimage {
     display: none !important;
   }
+  .slogandescription {
+    color: #fff;
+    font-size: 3rem;
+    font-weight: 700;
+  }
+
+  .detailsdescription {
+    color: #b3ccff;
+    font-size: 1.8rem;
+  }
 }
 
 @media (max-width: 330px) {
@@ -176,11 +184,5 @@
     height: 60rem;
     background-color: #4033ff;
     padding-top: 5rem;
-  }
-  .textcontainer {
-    padding-left: 3rem;
-    padding-top: 0rem;
-    width: 40rem;
-    margin-top: -1rem;
   }
 }
