@@ -7,6 +7,12 @@
   align-items: center;
   flex-direction: column;
 }
+.logosmart {
+  width: 40rem;
+}
+.logosmart1 {
+  width: 50rem;
+}
 .centersmart22 {
   display: flex;
   justify-content: center;

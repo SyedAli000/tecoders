@@ -9,8 +9,8 @@ function SmartAssistant() {
         <Col lg={10} md={10} xs={24}>
           <div className="centersmart">
             <img
-              className="img-fluid"
-              src="https://trisage-solution.vercel.app/images/services-1.png"
+              className="img-fluid logosmart"
+              src="https://engistack.com/img/mobile-app-development.png"
               alt=""
             />
           </div>
@@ -52,8 +52,8 @@ function SmartAssistant() {
           <div className="centersmart">
             <div>
               <img
-                className="img-fluid"
-                src="https://trisage-solution.vercel.app/images/services-4.png"
+                className="img-fluid logosmart"
+                src="https://uploads-ssl.webflow.com/615af81f65d1ab72d2969269/62d513ab00f6516899fd3a0c_web%20design%20vs%20development.png"
                 alt=""
               />
             </div>
@@ -68,8 +68,8 @@ function SmartAssistant() {
           <div className="centersmart">
             <div>
               <img
-                className="img-fluid"
-                src="https://trisage-solution.vercel.app/images/services-5.png"
+                className="img-fluid logosmart"
+                src="https://www.ihack.co.in/images/web-app.png"
                 alt=""
               />
             </div>
@@ -110,8 +110,8 @@ function SmartAssistant() {
           <div className="centersmart">
             <div>
               <img
-                className="img-fluid"
-                src="https://trisage-solution.vercel.app/images/services-3.png"
+                className="img-fluid logosmart1"
+                src="https://globify.in/wp-content/uploads/2020/10/for-ecom-slider.png"
                 alt=""
               />
             </div>
@@ -127,7 +127,7 @@ function SmartAssistant() {
             <div>
               <img
                 className="img-fluid"
-                src="https://trisage-solution.vercel.app/images/services-6.png"
+                src="https://cdn.logoworks.com/wp-content/uploads/2022/04/new-hero-image-march-1-opt.png"
                 alt=""
               />
             </div>
