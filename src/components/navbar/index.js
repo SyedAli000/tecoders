@@ -16,6 +16,7 @@ import Button from "@mui/material/Button";
 import useScrollTrigger from "@mui/material/useScrollTrigger";
 // import logo from "../../assetes/logo.png";
 import "./style.css";
+import { Link } from "react-router-dom";
 
 const drawerWidth = 240;
 const navItems = ["Home", "Services", "Contact", "Portfolio"];
@@ -83,15 +84,38 @@ function DrawerAppBar(props) {
             {/* <img src={logo} className="logoimage" alt="trisages logo" /> */}
           </Typography>
           <Box sx={{ display: { xs: "none", sm: "block" } }}>
-            {navItems.map((item) => (
+            <Link to="/">
               <Button
                 className="menuitemsbutton"
-                key={item}
+                // key={item}
                 sx={{ color: trigger ? "#626262" : "#fefeff" }}
               >
-                {item}
+                Home
               </Button>
-            ))}
+            </Link>
+            <Button
+              className="menuitemsbutton"
+              // key={item}
+              sx={{ color: trigger ? "#626262" : "#fefeff" }}
+            >
+              Services
+            </Button>
+            <Button
+              className="menuitemsbutton"
+              // key={item}
+              sx={{ color: trigger ? "#626262" : "#fefeff" }}
+            >
+              Contact
+            </Button>
+            <Link to="/portfolio">
+              <Button
+                className="menuitemsbutton"
+                // key={item}
+                sx={{ color: trigger ? "#626262" : "#fefeff" }}
+              >
+                Portfolio
+              </Button>
+            </Link>
           </Box>
         </Toolbar>
       </AppBar>

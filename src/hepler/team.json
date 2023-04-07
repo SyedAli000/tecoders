@@ -1,0 +1,101 @@
+[
+    {
+        "id":1,
+        "name":"Syed Kumail haider",
+        "image": "../images/profile-pic.png",
+        "detail": "CEO"
+        
+    },
+    {
+        "id":2,
+        "name":"GHIAS ALI",
+        "image": "../images/ghias.png",
+        "detail": "Assistant Project Manager"
+        
+    },
+    {
+        "id":3,
+        "name":"Hafeez Aneeb",
+        "image": "../images/Aneeb.jpeg",
+        "detail": "Human Resources"
+        
+    },
+    {
+        "id":4,
+        "name":"Muhammad Nouman Saleem",
+        "image": "../images/numan.jpeg",
+        "detail": "Project Manager"
+        
+    },
+    {
+        "id":5,
+        "name":"Muhammad Ali",
+        "image": "../images/ali.jpg",
+        "detail": "Laravel Developer"
+        
+    },
+    {
+        "id":6,
+        "name":"Faisal Zia",
+        "image": "../images/faisal.jpeg",
+        "detail": "Quality Assurance"
+        
+    },
+    {
+        "id":7,
+        "name":"Muhammad Numan Hayat",
+        "image": "../images/numanhayat.jpeg",
+        "detail": "Laravel Developer"
+        
+    },
+    {
+        "id":8,
+        "name":"Muhammad Faizan",
+        "image": "../images/faizan.jpeg",
+        "detail": "Laravel Developer"
+        
+    },
+    {
+        "id":9,
+        "name":"Muhammad Subhan",
+        "image": "../images/subhan.jpeg",
+        "detail": "React Developer"
+        
+    },
+    {
+        "id":10,
+        "name":"Muhammad Abdullah",
+        "image": "../images/ab.jpg",
+        "detail": "React Developer"
+        
+    },
+    {
+        "id":11,
+        "name":"Usama Ahmad",
+        "image": "../images/usama.jpeg",
+        "detail": "React Developer"
+        
+    },
+    {
+        "id":12,
+        "name":"Hashim Malik",
+        "image": "../images/hashim.JPG",
+        "detail": "Search engine optimization "
+        
+    },
+    {
+        "id":13,
+        "name":"Muhammad Aqeel",
+        "image": "../images/aqeel.jpeg",
+        "detail": "UI/UX designer"
+        
+    },
+    {
+        "id":14,
+        "name":"Iqbal",
+        "image": "../images/iqbal.jpeg",
+        "detail": "Amazon"
+        
+    }
+   
+]

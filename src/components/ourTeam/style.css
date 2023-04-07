@@ -1,0 +1,21 @@
+.center-col-team {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.our-team-text {
+  text-align: center;
+  font-size: 4rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+}
+.our-team-text11 {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: bold;
+}
+.card-width {
+  width: 30rem;
+}

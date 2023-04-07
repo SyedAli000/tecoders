@@ -180,9 +180,6 @@ const items = [
     <a href="https://the-wall-neon.vercel.app/home" target="_blank">
       <Card
         hoverable
-        //   style={{
-        //     width: 300,
-        //   }}
         className="cardwidth"
         cover={
           <img
@@ -193,7 +190,7 @@ const items = [
         actions={[<p>Read more</p>, <RightOutlined />]}
       >
         <Meta
-          title="SOCIAL DONATING APP"
+          title="the wall"
           description="A wonderful serenity has taken possession of my entire soul, 
         like these sweet mornings of spring which I enjoy with my whole heart. 
         I am alone, and feel the charm of existence in this spot, which was created 
@@ -206,9 +203,6 @@ const items = [
     <a href="https://alt-deck-new-ui-two.vercel.app/" target="_blank">
       <Card
         hoverable
-        //   style={{
-        //     width: 300,
-        //   }}
         className="cardwidth"
         cover={
           <img
@@ -232,9 +226,6 @@ const items = [
     <a href="https://mars-market.vercel.app/products" target="_blank">
       <Card
         hoverable
-        //   style={{
-        //     width: 300,
-        //   }}
         className="cardwidth"
         cover={
           <img
@@ -258,6 +249,7 @@ const items = [
 function Cards22() {
   return (
     <div>
+      <h1 className="prottext">Protfolio</h1>
       <div>
         <AliceCarousel
           disableButtonsControls

@@ -3,10 +3,18 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 40px 0px;
+  padding: 60px 0px;
 }
 .cardwidth {
   width: 40rem;
+}
+.prottext {
+  color: #160e0e !important;
+  font-size: 4rem !important;
+  font-weight: 700 !important;
+  text-align: center;
+  margin-bottom: 2rem;
+  margin-top: 4rem;
 }
 .ant-card-meta-title {
   color: #160e0e !important;

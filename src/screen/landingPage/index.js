@@ -7,6 +7,7 @@ import HappyCustomers from "../../components/customers";
 import Subscribe from "../../components/subscribe";
 import Footer from "../../components/footer";
 import Cards22 from "../../components/cards";
+import OurTeam from "../../components/ourTeam";
 function LandingPage() {
   return (
     <div>
@@ -25,7 +26,7 @@ function LandingPage() {
       <HappyCustomers />
       <br />
       <br />
-      <Cards22 />
+      <OurTeam />
       <br />
       <br />
       <Subscribe />
