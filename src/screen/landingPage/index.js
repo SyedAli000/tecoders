@@ -23,9 +23,9 @@ function LandingPage() {
       <SmartAssistant />
       <br />
       <br />
-      <HappyCustomers />
+      {/* <HappyCustomers />
       <br />
-      <br />
+      <br /> */}
       <OurTeam />
       <br />
       <br />

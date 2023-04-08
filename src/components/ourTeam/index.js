@@ -10,7 +10,7 @@ function OurTeam() {
     <div>
       <div>
         <h1 className="our-team-text">Our Team</h1>
-        <h1 className="our-team-text">The People Behind All The Magic</h1>
+        <h1 className="our-team-text1">The People Behind All The Magic</h1>
 
         <Row justify="center">
           {ourTeam.map((user) => (
@@ -21,8 +21,8 @@ function OurTeam() {
                   className="card-width"
                   cover={<img alt="example" src={user.image} />}
                 >
-                  <h3>{user.name}</h3>
-                  <Meta title={user.detail} />
+                  <h3 className="name-team">{user.name}</h3>
+                  <h2 className="detail-team">{user.detail}</h2>
                 </Card>
               </div>
             </Col>

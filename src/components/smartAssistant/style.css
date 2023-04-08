@@ -40,7 +40,7 @@
 .planttext1 {
   color: #6f7581;
   font-size: 1.5rem;
-  font-weight: 400;
+  font-weight: 600;
   line-height: 25px;
 }
 
@@ -58,7 +58,7 @@
   .planttext1 {
     color: #6f7581;
     font-size: 1.2rem;
-    font-weight: 400;
+    font-weight: 600;
     line-height: 25px;
   }
   .img-fluid {
@@ -76,7 +76,7 @@
   .planttext1 {
     color: #6f7581;
     font-size: 1.2rem;
-    font-weight: 400;
+    font-weight: 600;
     line-height: 25px;
   }
 }
@@ -96,7 +96,7 @@
   .planttext1 {
     color: #6f7581;
     font-size: 1.3rem;
-    font-weight: 400;
+    font-weight: 600;
     line-height: 25px;
     text-align: center;
   }

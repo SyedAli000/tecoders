@@ -10,6 +10,14 @@
   font-size: 4rem;
   font-weight: bold;
   margin-bottom: 2rem;
+  color: #403f52;
+}
+.our-team-text1 {
+  text-align: center;
+  font-size: 4rem;
+  font-weight: bold;
+  margin-bottom: 5rem;
+  color: #6f7581;
 }
 .our-team-text11 {
   text-align: center;
@@ -18,4 +26,14 @@
 }
 .card-width {
   width: 30rem;
+}
+.name-team {
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: #403f52;
+}
+.detail-team {
+  font-size: 2rem;
+  font-weight: 800;
+  color: #6f7581;
 }

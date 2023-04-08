@@ -69,7 +69,7 @@ function SmartAssistant() {
             <div>
               <img
                 className="img-fluid logosmart"
-                src="https://www.ihack.co.in/images/web-app.png"
+                src="https://www.simform.com/static/eda4a1f/5800d/web-app-dev-banner%402x.png"
                 alt=""
               />
             </div>
