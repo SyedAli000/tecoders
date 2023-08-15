@@ -47,6 +47,13 @@
         "image": "../images/hashim.png",
         "detail": "Search engine optimization "
         
+    },
+    {
+        "id":15,
+        "name":"Mian Saqib",
+        "image": "../images/saqib.jpeg",
+        "detail": "Business Developer "
+        
     }
  
 
