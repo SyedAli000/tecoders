@@ -1,16 +1,10 @@
 [
-    {
-        "id":1,
-        "name":"Syed Kumail haider",
-        "image": "../images/profile-pic.png",
-        "detail": "CEO"
-        
-    },
+
     {
         "id":2,
         "name":"GHIAS ALI",
         "image": "../images/ghias.png",
-        "detail": "Assistant Project Manager"
+        "detail": "CEO"
         
     },
     {
@@ -20,41 +14,11 @@
         "detail": "Human Resources"
         
     },
-    {
-        "id":4,
-        "name":"Muhammad Nouman Saleem",
-        "image": "../images/numan.jpeg",
-        "detail": "Project Manager"
-        
-    },
-    {
-        "id":5,
-        "name":"Muhammad Ali",
-        "image": "../images/ali.jpg",
-        "detail": "Laravel Developer"
-        
-    },
-    {
-        "id":6,
-        "name":"Faisal Zia",
-        "image": "../images/faisal.jpeg",
-        "detail": "Quality Assurance"
-        
-    },
-    {
-        "id":7,
-        "name":"Muhammad Numan Hayat",
-        "image": "../images/numanhayat.jpeg",
-        "detail": "Laravel Developer"
-        
-    },
-    {
-        "id":8,
-        "name":"Muhammad Faizan",
-        "image": "../images/faizan.jpeg",
-        "detail": "Laravel Developer"
-        
-    },
+  
+
+
+ 
+  
     {
         "id":9,
         "name":"Muhammad Subhan",
@@ -70,32 +34,21 @@
         
     },
     {
-        "id":11,
-        "name":"Usama Ahmad",
-        "image": "../images/usama.jpeg",
+        "id":13,
+        "name":"Syed Ali",
+        "image": "../images/syed.jpeg",
         "detail": "React Developer"
         
     },
+ 
     {
         "id":12,
         "name":"Hashim Malik",
         "image": "../images/hashim.png",
         "detail": "Search engine optimization "
         
-    },
-    {
-        "id":13,
-        "name":"Aqeel Asghar",
-        "image": "../images/aqeel.jpeg",
-        "detail": "UI/UX designer"
-        
-    },
-    {
-        "id":14,
-        "name":"Iqbal Ashraf",
-        "image": "../images/iqbal.jpeg",
-        "detail": "Amazon"
-        
     }
+ 
+
    
 ]

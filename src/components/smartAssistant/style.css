@@ -97,7 +97,8 @@
     color: #6f7581;
     font-size: 1.3rem;
     font-weight: 600;
-    line-height: 25px;
+    width: 40rem;
+    line-height: 20px;
     text-align: center;
   }
   .rowmargin {

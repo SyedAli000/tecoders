@@ -20,11 +20,13 @@ function SmartAssistant() {
             <div>
               <h2 className="planttext">Mobile App Development</h2>
               <p className="planttext1">
-                Trisage Solution is the go-to platform for the enterprise-grade
-                mobile app
-                <br /> development. We utilize latest technologies to build
-                feature-rich mobile
-                <br /> apps that work across different platforms.
+                Trisage solution specialize in delivering cutting-edge mobile
+                app development services. With a team of skilled developers and
+                designers, we craft intuitive and feature-rich applications
+                tailored to meet our clients' unique needs. Whether it's iOS,
+                Android, or cross-platform solutions, we are committed to
+                transforming ideas into engaging and user-friendly mobile
+                experiences.
               </p>
             </div>
           </div>
@@ -39,11 +41,12 @@ function SmartAssistant() {
             <div>
               <h2 className="planttext">Website Design</h2>
               <p className="planttext1">
-                Trisage Solution is the go-to platform for the enterprise-grade
-                website <br />
-                design. We utilize latest technologies to build feature-rich
-                website <br />
-                designs that work across different platforms.
+                Trisage Solution Company is a leading provider of exceptional
+                web design services. With a dedicated team of skilled designers
+                and developers, we craft stunning and functional websites that
+                cater to our clients' specific goals and target audience. From
+                responsive layouts to seamless navigation, our focus on quality
+                and innovation ensures our clients' online success.
               </p>
             </div>
           </div>
@@ -80,11 +83,11 @@ function SmartAssistant() {
             <div>
               <h2 className="planttext">Web App Development</h2>
               <p className="planttext1">
-                Trisage Solution is the go-to platform for the enterprise-grade
-                mobile app
-                <br /> development. We utilize latest technologies to build
-                feature-rich mobile <br /> apps that work across different
-                platforms.
+                Trisage Solution Company excels in web app development services,
+                delivering custom solutions that empower businesses to thrive in
+                the digital realm. With a focus on cutting-edge technologies and
+                user-centric design, we create scalable and high-performing web
+                applications to meet our clients' diverse needs.
               </p>
             </div>
           </div>
@@ -99,9 +102,12 @@ function SmartAssistant() {
             <div>
               <h2 className="planttext">Ecommerce Devlopment</h2>
               <p className="planttext1">
-                From ideation and prototyping to the development and deployment{" "}
-                of a <br /> complete solution. We exist to help companies
-                navigate the market, <br /> and drive long-term growth.
+                Trisage Solution Company is a trusted provider of Ecommerce
+                development services, offering tailored solutions to enhance
+                online retail experiences. Our team leverages the latest
+                Ecommerce technologies and best practices to create secure,
+                user-friendly, and visually appealing platforms that drive sales
+                and maximize business growth.
               </p>
             </div>
           </div>
@@ -138,11 +144,11 @@ function SmartAssistant() {
             <div>
               <h2 className="planttext">Graphic Design</h2>
               <p className="planttext1">
-                With IoT solutions, we empower clients to open up new doors of
-                opportunities
-                <br /> via a remotely controlled network infrastructure, with
-                the seamless <br /> integration of physical devices and
-                computing systems.
+                Our company offers professional graphic design services that
+                breathe life into creative visions. With a team of skilled
+                designers, we craft visually captivating graphics that elevate
+                branding, marketing materials, and digital content, leaving a
+                lasting impact on audiences across various platforms.
               </p>
             </div>
           </div>

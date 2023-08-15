@@ -80,8 +80,10 @@ function DrawerAppBar(props) {
             component="div"
             sx={{ flexGrow: 1, display: { xs: "none", sm: "block" } }}
           >
-            Trisage Solutions
-            {/* <img src={logo} className="logoimage" alt="trisages logo" /> */}
+            <img
+              src="https://trisage-solution.vercel.app/static/media/tri.e8b2dd4d.png"
+              className="logopic"
+            />
           </Typography>
           <Box sx={{ display: { xs: "none", sm: "block" } }}>
             <Link to="/">
