@@ -21,7 +21,7 @@ const responsive = {
 };
 const items = [
   <div className="centercard" onDragStart={handleDragStart}>
-    <a href="https://modest-tereshkova-3f6498.netlify.app/" target="_blank">
+    <a href="https://modest-tereshkova-3f6498.netlify.app/" target="_blank" rel="noreferrer">
       <Card
         hoverable
         //   style={{
@@ -47,7 +47,7 @@ const items = [
     </a>
   </div>,
   <div className="centercard " onDragStart={handleDragStart}>
-    <a href="http://www.kitabank.com/" target="_blank">
+    <a href="http://www.kitabank.com/" target="_blank" rel="noreferrer">
       <Card
         hoverable
         //   style={{
@@ -73,7 +73,7 @@ const items = [
     </a>
   </div>,
   <div className="centercard " onDragStart={handleDragStart}>
-    <a href="https://newdigital.vercel.app/" target="_blank">
+    <a href="https://newdigital.vercel.app/" target="_blank" rel="noreferrer">
       <Card
         hoverable
         //   style={{
@@ -99,7 +99,7 @@ const items = [
     </a>
   </div>,
   <div className="centercard " onDragStart={handleDragStart}>
-    <a href="https://tender-lewin-90de3c.netlify.app/" target="_blank">
+    <a href="https://tender-lewin-90de3c.netlify.app/" target="_blank" rel="noreferrer">
       <Card
         hoverable
         //   style={{
@@ -125,7 +125,7 @@ const items = [
     </a>
   </div>,
   <div className="centercard " onDragStart={handleDragStart}>
-    <a href="https://suspicious-goldwasser-8b7439.netlify.app/" target="_blank">
+    <a href="https://suspicious-goldwasser-8b7439.netlify.app/" target="_blank" rel="noreferrer">
       <Card
         hoverable
         //   style={{
@@ -151,7 +151,7 @@ const items = [
     </a>
   </div>,
   <div className="centercard " onDragStart={handleDragStart}>
-    <a href="https://sikayetbox-fe-v2.vercel.app" target="_blank">
+    <a href="https://sikayetbox-fe-v2.vercel.app" target="_blank" rel="noreferrer">
       <Card
         hoverable
         //   style={{
@@ -177,7 +177,7 @@ const items = [
     </a>
   </div>,
   <div className="centercard " onDragStart={handleDragStart}>
-    <a href="https://the-wall-neon.vercel.app/home" target="_blank">
+    <a href="https://the-wall-neon.vercel.app/home" target="_blank" rel="noreferrer">
       <Card
         hoverable
         className="cardwidth"
@@ -200,7 +200,7 @@ const items = [
     </a>
   </div>,
   <div className="centercard " onDragStart={handleDragStart}>
-    <a href="https://alt-deck-new-ui-two.vercel.app/" target="_blank">
+    <a href="https://alt-deck-new-ui-two.vercel.app/" target="_blank" rel="noreferrer">
       <Card
         hoverable
         className="cardwidth"
@@ -223,7 +223,7 @@ const items = [
     </a>
   </div>,
   <div className="centercard " onDragStart={handleDragStart}>
-    <a href="https://mars-market.vercel.app/products" target="_blank">
+    <a href="https://mars-market.vercel.app/products" target="_blank" rel="noreferrer">
       <Card
         hoverable
         className="cardwidth"

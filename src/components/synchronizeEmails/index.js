@@ -4,7 +4,7 @@ import "./style.css";
 function SynchronizeEmails() {
   return (
     <div className="mainemail">
-      <h1 className="mailtext44">Why TriSage ?</h1>
+      <h1 className="mailtext44">Why TeCoders ?</h1>
       <Row justify="center">
         <Col lg={5} md={10} xs={24}>
           <div className="centeremail">
@@ -57,8 +57,8 @@ function SynchronizeEmails() {
         <Col lg={5} md={10} xs={24}>
           <div className="centeremail">
             <img
-              style={{ width: "5rem", marginTop: "1rem", marginBottom: "2rem" }}
-              src="http://cdn.onlinewebfonts.com/svg/img_462711.png"
+              style={{ width: "5rem", marginTop: "1.75rem", marginBottom: "2rem" }}
+              src="/images/idea1.png"
               alt=""
             />
             <h2 className="mailtext">Idea Creation</h2>

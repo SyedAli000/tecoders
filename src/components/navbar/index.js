@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/alt-text */
 import * as React from "react";
 import PropTypes from "prop-types";
 import AppBar from "@mui/material/AppBar";
@@ -57,7 +58,7 @@ function DrawerAppBar(props) {
       <AppBar
         elevation={trigger ? 24 : 0}
         style={{
-          backgroundColor: trigger ? "white" : "#4033ff",
+          backgroundColor: trigger ? "white" : "#030637",
           color: trigger ? "#626262" : "#fefeff",
           boxShadow: trigger
             ? "5px 0px 27px -5px rgba(0, 0, 0, 0.3) !important"
@@ -80,10 +81,17 @@ function DrawerAppBar(props) {
             component="div"
             sx={{ flexGrow: 1, display: { xs: "none", sm: "block" } }}
           >
+            {trigger?
             <img
-              src="https://trisage-solution.vercel.app/static/media/tri.e8b2dd4d.png"
+              src="/images/logo2.jpeg"
               className="logopic"
             />
+            :
+            <img
+            src="/images/logo1.jpeg"
+            className="logopic"
+          />
+               }
           </Typography>
           <Box sx={{ display: { xs: "none", sm: "block" } }}>
             <Link to="/">

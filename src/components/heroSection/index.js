@@ -3,6 +3,7 @@ import "./style.css";
 import { Row, Col } from "antd";
 import { Slide } from "react-awesome-reveal";
 import Button from "@mui/material/Button";
+import FloatingWhatsAppButton from "../whatsapp";
 
 function HeroSection() {
   return (
@@ -14,16 +15,16 @@ function HeroSection() {
               <div>
                 <p className="slogan">Quality Over Quantity</p>
                 <p className="slogandescription">
-                  Organize your ideas and
-                  <br /> future plans with our
-                  <br /> smart business planner
+                Innovate and automate your 
+                  <br /> Business with our smart 
+                  <br /> Tech Solutions today
                 </p>
                 <p className="detailsdescription">
-                  We cover our clients needs with data warehouses,
-                  <br /> OLAP cubes, reports and dashboards. Predicting
-                  <br /> user behavior enables organization’s to maximize
+                We empower businesses with AI, web, and app solutions,
+                  <br /> delivering data-driven insights, automation, and innovation.
+                  <br /> Understanding user behavior helps organizations achieve
                   <br />
-                  business.
+                  growth and efficiency.
                 </p>
                 <Button className="explorebutton">Explore the product</Button>
               </div>
@@ -63,11 +64,12 @@ function HeroSection() {
       </div>
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
         <path
-          fill="#4033ff"
+          fill="#030637"
           fill-opacity="1"
           d="M0,288L60,272C120,256,240,224,360,192C480,160,600,128,720,101.3C840,75,960,53,1080,90.7C1200,128,1320,224,1380,272L1440,320L1440,0L1380,0C1320,0,1200,0,1080,0C960,0,840,0,720,0C600,0,480,0,360,0C240,0,120,0,60,0L0,0Z"
         ></path>
       </svg>
+      <FloatingWhatsAppButton/>
     </div>
   );
 }

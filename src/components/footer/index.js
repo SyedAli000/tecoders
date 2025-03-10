@@ -2,7 +2,7 @@ import React from "react";
 import { Row, Col } from "antd";
 import {
   FacebookFilled,
-  TwitterOutlined,
+  LinkedinFilled,
   InstagramFilled,
 } from "@ant-design/icons";
 import "./style.css";
@@ -17,7 +17,7 @@ function Footer() {
                 <div>
                   <img
                     className="footerimg"
-                    src="https://trisage-solution.vercel.app/static/media/tri.e8b2dd4d.png"
+                    src="/images/logo2.png"
                     alt=""
                   />
                   <p className="textfollow">
@@ -26,8 +26,12 @@ function Footer() {
                   </p>
                   <div>
                     <FacebookFilled className="iconantddd" />
-                    <TwitterOutlined className="iconantddd" />
+                    <a href="https://www.linkedin.com/company/tecodersinfo/">
+                    <LinkedinFilled className="iconantddd" />
+                    </a>
+                    <a href="https://www.instagram.com/tecoders?igsh=OTEydDhuN2E3MXhs">
                     <InstagramFilled className="iconantddd" />
+                    </a>
                   </div>
                 </div>
               </div>
@@ -66,7 +70,7 @@ function Footer() {
         </div>
       </div>
       <dv className="footerbottom">
-        <p>Copyright 2019 Shufflehoun. All rights reserved.</p>
+        <p>Copyright 2024 TeCoders. All rights reserved.</p>
       </dv>
     </>
   );

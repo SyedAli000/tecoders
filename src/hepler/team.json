@@ -1,61 +1,50 @@
 [
 
     {
-        "id":2,
-        "name":"GHIAS ALI",
-        "image": "../images/ghias.png",
-        "detail": "CEO"
+        "id":1,
+        "name":"Muhammad Saad",
+        "image": "../images/saad1.jpeg",
+        "detail": "MicroSoft AI Engineer"
         
     },
     {
-        "id":3,
-        "name":"Hafeez Aneeb",
-        "image": "../images/Aneeb.jpeg",
-        "detail": "Human Resources"
-        
-    },
-  
+      "id":2,
+      "name":"Syed Muhammad Ali",
+      "image": "../images/ali.jpeg",
+      "detail": "Full Stack Engineer"
+      
+  },
 
+    {
+      "id":3,
+      "name":"Khadija Zahid",
+      "image": "../images/khadija.jpeg",
+      "detail": "Contetnt Writer"
+      
+  },
 
- 
+{
+  "id":4,
+  "name":"Hamza Ahmad",
+  "image": "../images/hamza.jpeg",
+  "detail": "App Developer"
   
-    {
-        "id":9,
-        "name":"Muhammad Subhan",
-        "image": "../images/subhan.jpeg",
-        "detail": "React Developer"
-        
-    },
-    {
-        "id":10,
-        "name":"Muhammad Abdullah",
-        "image": "../images/ab.jpg",
-        "detail": "React Developer"
-        
-    },
-    {
-        "id":13,
-        "name":"Syed Ali",
-        "image": "../images/syed.jpeg",
-        "detail": "React Developer"
-        
-    },
- 
-    {
-        "id":12,
-        "name":"Hashim Malik",
-        "image": "../images/hashim.png",
-        "detail": "Search engine optimization "
-        
-    },
-    {
-        "id":15,
-        "name":"Mian Saqib",
-        "image": "../images/saqib.jpeg",
-        "detail": "Business Developer "
-        
-    }
- 
+},
+{
+  "id":5,
+  "name":"Muhammad Bilal",
+  "image": "../images/bilal.jpeg",
+  "detail": "Frontend Developer"
+  
+},
+{
+  "id":5,
+  "name":"Hafiz Waiz",
+  "image": "../images/waiz.jpeg",
+  "detail": "Unity Game Developer"
+  
+}
+
 
    
 ]
