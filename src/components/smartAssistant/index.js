@@ -124,7 +124,7 @@ function SmartAssistant() {
         <Col lg={10} md={10} xs={24}>
           <div className="centersmart22">
             <div>
-              <h2 className="planttext">Ecommerce Devlopment</h2>
+              <h2 className="planttext">Ecommerce Development</h2>
               <p className="planttext1">
                 TeCoders Company is a trusted provider of Ecommerce
                 development services, offering tailored solutions to enhance
