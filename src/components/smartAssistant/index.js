@@ -11,12 +11,7 @@ function SmartAssistant() {
             <div>
               <h2 className="planttext">Website Design</h2>
               <p className="planttext1">
-                TeCoders Company is a leading provider of exceptional
-                web design services. With a dedicated team of skilled designers
-                and developers, we craft stunning and functional websites that
-                cater to our clients' specific goals and target audience. From
-                responsive layouts to seamless navigation, our focus on quality
-                and innovation ensures our clients' online success.
+              TeCoders is a top custom web design company, offering exceptional website design services. With skilled designers and developers, we create stunning websites tailored to our clients' goals and target audience. From responsive layouts to seamless navigation, we ensure online success.
               </p>
             </div>
           </div>
@@ -51,13 +46,7 @@ function SmartAssistant() {
             <div>
               <h2 className="planttext">Mobile App Development</h2>
               <p className="planttext1">
-                TeCoders specialize in delivering cutting-edge mobile
-                app development services. With a team of skilled developers and
-                designers, we craft intuitive and feature-rich applications
-                tailored to meet our clients' unique needs. Whether it's iOS,
-                Android, or cross-platform solutions, we are committed to
-                transforming ideas into engaging and user-friendly mobile
-                experiences.
+              TeCoders specialize in delivering top mobile app development services. With a skilled team, we craft intuitive, feature-rich apps tailored to meet our clients' needs. Whether iOS, Android, or cross-platform, we transform ideas into engaging mobile experiences.
               </p>
             </div>
           </div>
@@ -72,8 +61,7 @@ function SmartAssistant() {
             <div>
               <h2 className="planttext">Search Engine Automization  </h2>
               <p className="planttext1">
-              TeCoders Company provides cutting-edge SEO services to enhance online visibility. Our team implements strategic optimizations, keyword research, and data-driven tactics to improve rankings. From technical SEO to content strategies, we ensure higher traffic and better engagement. With expertise in on-page, off-page, and local SEO, our goal is to drive sustained growth and digital success for businesses.
-              </p>
+              TeCoders offers cutting-edge SEO and AI automation solutions to enhance online visibility. Our team implements strategic optimizations, keyword research, and data-driven tactics to improve rankings. From technical SEO to content strategies, we drive higher traffic and engagement.              </p>
             </div>
           </div>
         </Col>
@@ -110,11 +98,7 @@ function SmartAssistant() {
             <div>
               <h2 className="planttext">Web App Development</h2>
               <p className="planttext1">
-                TeCoders Company excels in web app development services,
-                delivering custom solutions that empower businesses to thrive in
-                the digital realm. With a focus on cutting-edge technologies and
-                user-centric design, we create scalable and high-performing web
-                applications to meet our clients' diverse needs.
+              TeCoders excels in custom web app development services, delivering solutions that empower businesses to thrive digitally. With cutting-edge technologies and user-centric design, we create scalable and high-performing web applications tailored to clients' needs.
               </p>
             </div>
           </div>
@@ -126,12 +110,7 @@ function SmartAssistant() {
             <div>
               <h2 className="planttext">Ecommerce Development</h2>
               <p className="planttext1">
-                TeCoders Company is a trusted provider of Ecommerce
-                development services, offering tailored solutions to enhance
-                online retail experiences. Our team leverages the latest
-                Ecommerce technologies and best practices to create secure,
-                user-friendly, and visually appealing platforms that drive sales
-                and maximize business growth.
+              TeCoders is a trusted provider of custom ecommerce development services, offering tailored solutions to enhance online retail experiences. Our team uses the latest ecommerce technologies to create secure, user-friendly, and visually appealing platforms that drive sales and growth.
               </p>
             </div>
           </div>
@@ -168,8 +147,7 @@ function SmartAssistant() {
             <div>
               <h2 className="planttext">Game Development</h2>
               <p className="planttext1">
-              TeCoders Company excels in crafting immersive and engaging games. Our expert developers specialize in building dynamic, interactive experiences across multiple platforms. From concept to deployment, we ensure seamless performance, captivating visuals, and smooth mechanics. Whether casual or complex, our innovative approach ensures high-quality gaming solutions tailored to clients' needs for maximum user engagement.
-              </p>
+              TeCoders excels in custom game development, crafting immersive and engaging experiences across multiple platforms. Our expert developers specialize in building dynamic, interactive games with seamless performance, captivating visuals, and smooth mechanics.              </p>
             </div>
           </div>
         </Col>

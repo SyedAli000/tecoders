@@ -16,15 +16,15 @@ function HeroSection() {
                 <p className="slogan">Quality Over Quantity</p>
                 <p className="slogandescription">
                 Innovate and automate your 
-                  <br /> Business with our smart 
-                  <br /> Tech Solutions today
+                  <br /> Business with our full-service 
+                  <br /> Software Development company today
                 </p>
                 <p className="detailsdescription">
                 We empower businesses with AI, web, and app solutions,
                   <br /> delivering data-driven insights, automation, and innovation.
-                  <br /> Understanding user behavior helps organizations achieve
+                  <br /> By analyzing user behavior, we help organizations  
                   <br />
-                  growth and efficiency.
+                  drive growth and enhance efficiency
                 </p>
                 <Button className="explorebutton">Explore the product</Button>
               </div>

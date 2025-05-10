@@ -9,63 +9,55 @@ function SynchronizeEmails() {
         <Col lg={5} md={10} xs={24}>
           <div className="centeremail">
             <img
-              style={{ width: "5rem", marginTop: "1rem", marginBottom: "2rem" }}
+              style={{ width: "7rem", marginTop: "1rem", marginBottom: "2rem" }}
               src="https://cdn-icons-png.flaticon.com/512/6528/6528295.png"
               alt=""
             />
             <h2 className="mailtext">Digital Transformation</h2>
             <p className="mailtext1">
-              Good companies provide their customers
-              <br /> with a 360 degree experience. Our ERPs <br /> can be
-              accessed from Mobile, Tablets, <br /> Smart Phones, Desktops and
-              Laptops.
+               Top companies provide their customers 
+              <br />with a complete digital experience. Our  <br /> ERPs are accessible from mobiles, tablets,
+              smartphones, desktops, and laptops.
             </p>
           </div>
         </Col>
         <Col lg={5} md={10} xs={24}>
           <div className="centeremail">
             <img
-              style={{ width: "5rem", marginTop: "1rem", marginBottom: "2rem" }}
+              style={{ width: "7rem", marginTop: "1rem", marginBottom: "2rem" }}
               src="https://cdn.iconscout.com/icon/free/png-256/business-intelligence-3611761-3018540.png"
               alt=""
             />
             <h2 className="mailtext">Business Intelligence</h2>
             <p className="mailtext1">
-              We cover our clients needs with data <br /> warehouses, OLAP
-              cubes, reports and <br /> dashboards. Predicting user behavior{" "}
-              <br />
-              enables organization’s to maximize business
+            We meet our clients' needs with data warehouses, OLAP cubes, reports, and dashboards  Predicting user behavior helps organizations{" "}
+              maximize business growth.
             </p>
           </div>
         </Col>
         <Col lg={5} md={10} xs={24}>
           <div className="centeremail">
             <img
-              style={{ width: "5rem", marginTop: "1rem", marginBottom: "2rem" }}
+              style={{ width: "7rem", marginTop: "1rem", marginBottom: "2rem" }}
               src="https://static.thenounproject.com/png/1852532-200.png"
               alt=""
             />
             <h2 className="mailtext">User Interface & Design</h2>
             <p className="mailtext1">
-              Good companies provide their customers
-              <br /> with a 360 degree experience. Our ERPs <br /> can be
-              accessed from Mobile, Tablets, <br /> Smart Phones, Desktops and
-              Laptops.
+            Leading companies provide their customers with a complete digital experience. Our ERPs are accessible from mobiles, tablets, smartphones, desktops, and laptops with intuitive design.
             </p>
           </div>
         </Col>
         <Col lg={5} md={10} xs={24}>
           <div className="centeremail">
             <img
-              style={{ width: "5rem", marginTop: "1.75rem", marginBottom: "2rem" }}
+              style={{width: "7rem", marginTop: "1.75rem", marginBottom: "2rem" }}
               src="/images/idea1.png"
               alt=""
             />
             <h2 className="mailtext">Idea Creation</h2>
             <p className="mailtext1">
-              We grow our clients’ business by building <br /> brands. Finding
-              solutions that are global <br /> when needed, or as singular as a
-              simple <br /> human emotion.
+            We help our clients grow by building strong brands. We find solutions that are global when necessary or as personal as a simple human emotion.
             </p>
           </div>
         </Col>
