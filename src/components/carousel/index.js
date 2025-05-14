@@ -10,12 +10,12 @@ const items = [
     <div onDragStart={handleDragStart}>
       <img className="imglogo" src={Sub} />
       <p className="textphoto">
-        We take photos to capture moments and
-        <br /> people that we love. We are happy when
-        <br /> there are more and more people who like
-        <br /> what we do.
+      TeCoders built my Reddit bot exactly how I wanted
+        <br /> They were smart, helpful, and fast with replies. 
+        <br /> hey understood my needs and made the process  
+        <br /> simple. I’d gladly work with them again anytime!
       </p>
-      <h3 className="teacher">Manager assistant</h3>
+      <h3 className="teacher">Gagan Arora</h3>
     </div>
   </div>,
   <div className="imgdiv">
@@ -26,12 +26,12 @@ const items = [
         alt=""
       />
       <p className="textphoto">
-        We take photos to capture moments and
-        <br /> people that we love. We are happy when
-        <br /> there are more and more people who like
-        <br /> what we do.
+      TeCoder's team was highly skilled and professional. 
+        <br /> They kept me in loop about the development.
+        <br />  was pretty satisfied by the final results.
+        <br /> Highly Recommended!
       </p>
-      <h3 className="teacher">Manager assistant</h3>
+      <h3 className="teacher">Alex Cherri</h3>
     </div>
   </div>,
   <div className="imgdiv">
